@@ -1,5 +1,5 @@
-import {h, render} from 'https://cdn.skypack.dev/preact';
-import htm from 'https://cdn.skypack.dev/htm';
+import {h, render} from 'https://cdn.skypack.dev/preact@10.5.14';
+import htm from 'https://cdn.skypack.dev/htm@3.1.0';
 
 const html = htm.bind(h);
 
